@@ -76,7 +76,7 @@
     "eslint-plugin-react": "7.24.0",
     "eslint-plugin-react-hooks": "4.2.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
-    "eslint-plugin-testing-library": "4.6.0",
+    "eslint-plugin-testing-library": "4.9.0",
     "prettier": "1.19.1",
     "jest": "27.0.3",
     "react-test-renderer": "17.0.2",
